@@ -83,7 +83,6 @@ body {
     height: 95vh;
     min-height: 700px;
     background: url('statue_hero.png') center/cover no-repeat;
-    border-bottom-left-radius: 15vw;
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -335,9 +334,6 @@ body {
     }
     .hero-text-area h1 {
         font-size: 2.8rem;
-    }
-    .hero {
-        border-bottom-left-radius: 10vw;
     }
     
     .mobile-toggle {
