@@ -82,7 +82,7 @@ body {
     position: relative;
     height: 95vh;
     min-height: 700px;
-    background: url('statue_hero.png') center/cover no-repeat;
+    background: url('statue_hero.png') center top/cover no-repeat;
     overflow: hidden;
     display: flex;
     align-items: center;
