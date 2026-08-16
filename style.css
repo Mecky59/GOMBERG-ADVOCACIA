@@ -52,8 +52,8 @@ body {
     letter-spacing: 1px;
 }
 .nav-brand img {
-    height: 35px;
-    filter: brightness(0) invert(1);
+    height: 70px;
+    object-fit: contain;
 }
 .nav-links {
     display: flex;
