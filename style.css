@@ -1,10 +1,10 @@
 :root {
-    --bg-dark: #111111;
-    --bg-light: #FFFFFF;
+    --bg-dark: #000000;
+    --bg-light: #111111;
     --gold: #A88350;
     --gold-light: #C5A87C;
-    --text-dark: #333333;
-    --text-muted: #888888;
+    --text-dark: #FFFFFF;
+    --text-muted: #BBBBBB;
     --font-sans: 'DM Sans', sans-serif;
     --font-serif: 'Playfair Display', serif;
 }
@@ -208,7 +208,7 @@ body {
 .feature-icon {
     width: 50px;
     height: 50px;
-    background: #F8F5EF;
+    background: #222222;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -244,12 +244,12 @@ body {
     gap: 2rem;
 }
 .srv-card {
-    background: #FAFAFA;
+    background: #1A1A1A;
     padding: 3rem 2rem;
     border-radius: 12px;
     text-align: center;
     transition: all 0.3s;
-    border: 1px solid #EEEEEE;
+    border: 1px solid #333333;
 }
 .srv-card:hover { 
     transform: translateY(-8px);
