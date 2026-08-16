@@ -157,6 +157,12 @@ body {
     position: absolute;
     top: 0; left: 0;
     max-width: 220px;
+    background: var(--bg-light);
+    padding: 1.5rem;
+    border-radius: 12px;
+    border: 1px solid #333333;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    z-index: 10;
 }
 .badge-247 strong {
     font-size: 3rem;
